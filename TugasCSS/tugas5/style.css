@@ -1,0 +1,10 @@
+h1 {
+  font-size: 100px;
+  color: maroon;
+}
+
+p {
+  text-indent: 100px;
+  text-transform: capitalize;
+  letter-spacing: 5px;
+}
