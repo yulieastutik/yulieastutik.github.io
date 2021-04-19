@@ -1,0 +1,10 @@
+h2 {
+	font-family: arial, verdana, sans-serif;
+}
+p {
+	font-family :"Times New Roman", serif;
+}
+body {
+	background-color: lightblue;
+	background-image: url(gambar/bg2.jpg);
+}
